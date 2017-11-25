@@ -1,2 +1,2 @@
 # pen
-app processing
+app processing (see [wiki](https://github.com/appendens/pen/wiki))
